@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang(    'doksoft_foundation_button',	'en',{			title				:	'doksoft_foundation_button'	});

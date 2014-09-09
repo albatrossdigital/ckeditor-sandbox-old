@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang(	'doksoft_foundation_table',	'en',	{			doksoft_foundation_table:		{			add_table:'Add table'		}	});
